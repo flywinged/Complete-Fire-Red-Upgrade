@@ -296,10 +296,8 @@ def main():
             binary.close()
 
         # Adjust symbol table
-        with open("./dump.txt", "w") as f:
-            for entry in table:
-                f.write(entry + "," + str(table[entry]) + "\n")
-                table[entry] += OFFSET_TO_PUT
+        for entry in table:
+            table[entry] += OFFSET_TO_PUT
 
         # Insert byte changes
         if os.path.isfile(BYTE_REPLACEMENT):
