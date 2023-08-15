@@ -124,6 +124,7 @@ void __attribute__((long_call)) ShiftMoveSlot(struct Pokemon *mon, u8 slotTo, u8
 void __attribute__((long_call)) PartyMenuTryEvolution(u8 taskId);
 void __attribute__((long_call)) FreePartyPointers(void);
 void __attribute__((long_call)) PartyMenuDisplayYesNoMenu(void);
+bool8 __attribute__((long_call)) PokemonUseItemEffects(struct Pokemon *mon, u16 item, u8 partyIndex, u8 moveIndex, bool8 usedByAI);
 
 //This file's functions:
 static void OpenSummary(u8 taskId);
@@ -1584,6 +1585,23 @@ void FieldUseFunc_EVReducingBerry(u8 taskId)
 {
 	gItemUseCB = ItemUseCB_EVReducingBerry;
 	SetUpItemUseCallback(taskId);
+}
+
+bool8 ExecuteTableBasedItemEffect(struct Pokemon *mon, u16 item, u8 partyIndex, u8 moveIndex)
+{
+	// Keep items in inventory
+	if (item == ITEM_RARE_CANDY) {
+		AddBagItem(item, 1);
+	}
+	
+	// Return without applying anything. Game will still print that the pokemon was
+	// elevated, but nothing will happen.
+	if (item == ITEM_RARE_CANDY && GetMonData(mon, MON_DATA_LEVEL, NULL) == VarGet(VAR_0x40FF)) {
+		return TRUE;
+	}
+
+	// Perform the normal item effect
+    return PokemonUseItemEffects(mon, item, partyIndex, moveIndex, 0);
 }
 
 static void AdjustFriendshipForEVReducingBerry(struct Pokemon* mon)

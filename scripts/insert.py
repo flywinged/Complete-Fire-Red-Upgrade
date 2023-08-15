@@ -7,7 +7,7 @@ import sys
 from datetime import datetime
 import _io
 
-OFFSET_TO_PUT = 0x900000
+OFFSET_TO_PUT = 0xf00000
 SOURCE_ROM = "BPRE0.gba"
 ROM_NAME = "test.gba"
 
@@ -296,8 +296,10 @@ def main():
             binary.close()
 
         # Adjust symbol table
-        for entry in table:
-            table[entry] += OFFSET_TO_PUT
+        with open("./dump.txt", "w") as f:
+            for entry in table:
+                f.write(entry + "," + str(table[entry]) + "\n")
+                table[entry] += OFFSET_TO_PUT
 
         # Insert byte changes
         if os.path.isfile(BYTE_REPLACEMENT):
@@ -383,7 +385,7 @@ def main():
                     try:
                         code = table[symbol]
                     except KeyError:
-                        print('Symbol missing:', symbol)
+                        print('Symbol missing 1:', symbol)
                         continue
 
                     Hook(rom, code, offset, int(register))
@@ -407,7 +409,7 @@ def main():
                         try:
                             code = table[symbol]
                         except KeyError:
-                            print('Symbol missing:', symbol)
+                            print('Symbol missing 2:', symbol)
                             continue
 
                         Repoint(rom, code, offset)
@@ -418,7 +420,7 @@ def main():
                         try:
                             code = table[symbol]
                         except KeyError:
-                            print('Symbol missing:', symbol)
+                            print('Symbol missing 3:', symbol)
                             continue
 
                         Repoint(rom, code, offset, int(slide))
@@ -435,7 +437,7 @@ def main():
                     try:
                         code = table[symbol]
                     except KeyError:
-                        print('Symbol missing:', symbol)
+                        print('Symbol missing 4:', symbol)
                         continue
 
                     symbolsRepointed.add(symbol)
@@ -467,7 +469,7 @@ def main():
                     try:
                         code = table[symbol]
                     except KeyError:
-                        print('Symbol missing:', symbol)
+                        print('Symbol missing 5:', symbol)
                         continue
                     offsetsToRepointTogether.append((offset, code, symbol))
 
@@ -497,7 +499,7 @@ def main():
                     try:
                         code = table[symbol]
                     except KeyError:
-                        print('Symbol missing:', symbol)
+                        print('Symbol missin 6g:', symbol)
                         continue
 
                     Repoint(rom, code, offset, 1)
@@ -520,7 +522,7 @@ def main():
                     try:
                         code = table[symbol]
                     except KeyError:
-                        print('Symbol missing:', symbol)
+                        print('Symbol missing 7:', symbol)
                         continue
 
                     FunctionWrap(rom, code, offset, int(numParams), int(isReturning))
@@ -651,7 +653,7 @@ def main():
                                 try:
                                     code = int(symbol, 16)  # If script offset was written in hex
                                 except ValueError:
-                                    print('Symbol missing:', symbol)
+                                    print('Symbol missing 8:', symbol)
                                     continue
 
                             Repoint(rom, code, offset)
@@ -687,7 +689,7 @@ def main():
                             try:
                                 code = int(song, 16)  # If script offset was written in hex
                             except ValueError:
-                                print('Symbol missing:', song)
+                                print('Symbol missing 9:', song)
                                 continue
 
                         Repoint(rom, code, offset)
