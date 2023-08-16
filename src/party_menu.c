@@ -1426,19 +1426,27 @@ void ItemUseCB_MedicineStep(u8 taskId, TaskFunc func)
 	u16 item = Var800E;
 	bool8 canHeal;
 
+	// Used to ensure some key items appear reusable
+	// Rare candies and all the updated vitamins
+	if (
+		item == ITEM_RARE_CANDY ||
+		item == ITEM_HP_UP ||
+		item == ITEM_PROTEIN ||
+		item == ITEM_IRON ||
+		item == ITEM_CARBOS ||
+		item == ITEM_CALCIUM ||
+		item == ITEM_ZINC ||
+		(item >= 74 && item <= 79) // New vitamin items
+	) {
+		AddBagItem(item, 1);
+	}
+
 	if (item == ITEM_RARE_CANDY) {
 		if (GetMonData(mon, MON_DATA_LEVEL, NULL) == VarGet(VAR_0x40FF)) {
 			goto WONT_HAVE_EFFECT;
 		}
-		AddBagItem(item, 1);
 		ItemUseCB_RareCandyStep(taskId, func);
 		return;
-	}
-
-	if (
-		item == ITEM_HP_UP
-	) {
-		AddBagItem(item, 1);
 	}
 
 	if (NotUsingHPEVItemOnShedinja(mon, item))
