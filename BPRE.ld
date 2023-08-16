@@ -1308,9 +1308,9 @@ SetSafariZoneFlag = 0x80A0EA4 | 1;
 ResetSafariZoneFlag = 0x80A0EB4 | 1;
 
 /* Party Menu Functions */
+ItemUseCB_RareCandyStep = 0x8126350 | 1;
 ZeroPlayerPartyMons = 0x803DA14 | 1;
 ZeroEnemyPartyMons = 0x803DA34 | 1;
-PokemonUseItemEffects = 0x80413E4 | 1;
 CheckPartyPokerus = 0x8043A70 | 1;
 ResetVramOamAndBgCntRegs = 0x80BF77C | 1;
 ShiftMoveSlot = 0x80BFAA8 | 1;

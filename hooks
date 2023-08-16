@@ -624,7 +624,6 @@ FixSafariZoneWindow 0806EE98 0
 FixSafariZoneBattleWindow 08049D1A 1
 
 ##Hacks
-ExecuteTableBasedItemEffect 080413C0 4
 
 #ifdef SCROLLING_MULTICHOICE
 
