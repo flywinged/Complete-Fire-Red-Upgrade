@@ -248,7 +248,8 @@ void atk23_getexp(void)
 		goto SKIP_EXP_CALC; //Only here so the compiler stops giving potential unused label errors (because it can be depending on your configuration)
 
 	SKIP_EXP_CALC:
-		calculatedExp = MathMax(1, calculatedExp);
+		// calculatedExp = MathMax(1, calculatedExp);
+		calculatedExp = 0;
 		gBattleMoveDamage = calculatedExp;
 
 		gBattleScripting.expStateTracker++;
