@@ -39,7 +39,7 @@ void TransferPlttBuffer(void)
 		DmaCopy16(3, src, dest, PLTT_SIZE);
 
 		#ifdef TIME_ENABLED
-		FadeDayNightPalettes();
+		// FadeDayNightPalettes();
 		#endif
 
 		sPlttBufferTransferPending = 0;
