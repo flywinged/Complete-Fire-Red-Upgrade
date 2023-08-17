@@ -366,6 +366,8 @@ void atkEF_handleballthrow(void)
 			//		gBattleResults.usedBalls[ballType - BALL_TYPE_ULTRA_BALL]++;
 		}
 
+		// Always catch in this ROM hack
+		odds = 0x255;
 		if (odds >= 0xFF) //Pokemon is Caught
 		{
 			EmitBallThrowAnim(0, 4);
