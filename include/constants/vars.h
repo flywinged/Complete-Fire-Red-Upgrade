@@ -83,10 +83,10 @@
 #define VAR_HAPPINESS_STEP_COUNTER         0x402A
 #define VAR_POISON_STEP_COUNTER            0x402B
 #define VAR_RESET_RTC_ENABLE               0x402C
-#define VAR_0x402D                         0x402D
-#define VAR_0x402E                         0x402E
+#define VAR_0x402D                         0x402D // Using for the opening sequence wake-up
+#define VAR_0x402E                         0x402E // Using for the opening sequence to exit the initial clearing. Increment each time a starter is grabbed
 
-#define VAR_0x402F                         0x402F
+#define VAR_0x402F                         0x402F // Used to track if you've talked to professor oak when entering the clearing or not
 
 #define VAR_ICE_STEP_COUNT                 0x4030
 #define VAR_STARTER_MON                    0x4031
