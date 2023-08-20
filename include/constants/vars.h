@@ -90,7 +90,7 @@
 
 #define VAR_ICE_STEP_COUNT                 0x4030
 #define VAR_STARTER_MON                    0x4031
-#define VAR_0x4032                         0x4032
+#define VAR_0x4032                         0x4032 // Used to track the progress on the Mysterious Wood Storyline
 #define VAR_ENIGMA_BERRY_AVAILABLE         0x4033
 
 #define VAR_0x4034                         0x4034

@@ -20,7 +20,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[2] =
+	[3] =
 	{ // 00019
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -33,7 +33,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[3] =
+	[4] =
 	{ // 00049
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -46,7 +46,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[4] =
+	[5] =
 	{ // 00091
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -59,7 +59,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[5] =
+	[6] =
 	{ // 00094
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -72,7 +72,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[6] =
+	[7] =
 	{ // 00109
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -85,7 +85,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[7] =
+	[8] =
 	{ // 00149
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -98,7 +98,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[8] =
+	[9] =
 	{ // 00190
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -111,7 +111,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[9] =
+	[10] =
 	{ // 00194
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -124,7 +124,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[10] =
+	[11] =
 	{ // 00199
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -137,7 +137,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[11] =
+	[12] =
 	{ // 00409
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -150,7 +150,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[12] =
+	[13] =
 	{ // 00419
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -163,7 +163,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[13] =
+	[14] =
 	{ // 00449
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -176,7 +176,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[14] =
+	[15] =
 	{ // 00490
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -189,7 +189,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[15] =
+	[16] =
 	{ // 00491
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -202,7 +202,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[16] =
+	[17] =
 	{ // 00494
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -215,7 +215,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[17] =
+	[18] =
 	{ // 00499
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -228,7 +228,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[18] =
+	[19] =
 	{ // 00901
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -241,7 +241,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[19] =
+	[20] =
 	{ // 00904
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -254,7 +254,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[20] =
+	[21] =
 	{ // 00910
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -267,7 +267,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[21] =
+	[22] =
 	{ // 00914
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -280,7 +280,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[22] =
+	[23] =
 	{ // 00919
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -293,7 +293,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[23] =
+	[24] =
 	{ // 00940
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -306,7 +306,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[24] =
+	[25] =
 	{ // 00941
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -319,7 +319,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[25] =
+	[26] =
 	{ // 00944
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -332,7 +332,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[26] =
+	[27] =
 	{ // 00949
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -345,7 +345,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[27] =
+	[28] =
 	{ // 00991
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -358,7 +358,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[28] =
+	[29] =
 	{ // 00994
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -371,7 +371,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[29] =
+	[30] =
 	{ // 01009
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -384,7 +384,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[30] =
+	[31] =
 	{ // 01049
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -397,7 +397,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[31] =
+	[32] =
 	{ // 01409
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -410,7 +410,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[32] =
+	[33] =
 	{ // 01449
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -423,7 +423,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[33] =
+	[34] =
 	{ // 01900
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -436,7 +436,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[34] =
+	[35] =
 	{ // 01904
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -449,7 +449,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[35] =
+	[36] =
 	{ // 01909
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -462,7 +462,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[36] =
+	[37] =
 	{ // 01940
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -475,7 +475,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[37] =
+	[38] =
 	{ // 01944
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -488,7 +488,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[38] =
+	[39] =
 	{ // 01949
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -501,7 +501,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[39] =
+	[40] =
 	{ // 04009
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -514,7 +514,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[40] =
+	[41] =
 	{ // 04019
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -527,7 +527,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[41] =
+	[42] =
 	{ // 04049
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -540,7 +540,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[42] =
+	[43] =
 	{ // 04090
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -553,7 +553,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[43] =
+	[44] =
 	{ // 04091
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -566,7 +566,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[44] =
+	[45] =
 	{ // 04094
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -579,7 +579,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[45] =
+	[46] =
 	{ // 04099
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -592,7 +592,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[46] =
+	[47] =
 	{ // 04109
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -605,7 +605,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[47] =
+	[48] =
 	{ // 04149
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -618,7 +618,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[48] =
+	[49] =
 	{ // 04190
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -631,7 +631,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[49] =
+	[50] =
 	{ // 04194
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -644,7 +644,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[50] =
+	[51] =
 	{ // 04199
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -657,7 +657,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[51] =
+	[52] =
 	{ // 04409
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -670,7 +670,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[52] =
+	[53] =
 	{ // 04419
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -683,7 +683,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[53] =
+	[54] =
 	{ // 04490
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -696,7 +696,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[54] =
+	[55] =
 	{ // 04491
 		.nature = NATURE_CALM,
 		.ivs = 31,
@@ -709,7 +709,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[55] =
+	[56] =
 	{ // 04900
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -722,7 +722,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[56] =
+	[57] =
 	{ // 04901
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -735,7 +735,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[57] =
+	[58] =
 	{ // 04904
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -748,7 +748,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[58] =
+	[59] =
 	{ // 04909
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -761,7 +761,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[59] =
+	[60] =
 	{ // 04910
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -774,7 +774,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[60] =
+	[61] =
 	{ // 04914
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -787,7 +787,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[61] =
+	[62] =
 	{ // 04919
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -800,7 +800,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[62] =
+	[63] =
 	{ // 04940
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -813,7 +813,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[63] =
+	[64] =
 	{ // 04941
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -826,7 +826,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[64] =
+	[65] =
 	{ // 04990
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -839,7 +839,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[65] =
+	[66] =
 	{ // 04991
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -852,7 +852,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[66] =
+	[67] =
 	{ // 09001
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -865,7 +865,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[67] =
+	[68] =
 	{ // 09004
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -878,7 +878,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[68] =
+	[69] =
 	{ // 09040
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -891,7 +891,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[69] =
+	[70] =
 	{ // 09041
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -904,7 +904,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[70] =
+	[71] =
 	{ // 09044
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -917,7 +917,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[71] =
+	[72] =
 	{ // 09049
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -930,7 +930,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[72] =
+	[73] =
 	{ // 09091
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -943,7 +943,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[73] =
+	[74] =
 	{ // 09094
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -956,7 +956,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[74] =
+	[75] =
 	{ // 09100
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -969,7 +969,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[75] =
+	[76] =
 	{ // 09104
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -982,7 +982,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[76] =
+	[77] =
 	{ // 09109
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -995,7 +995,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[77] =
+	[78] =
 	{ // 09140
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1008,7 +1008,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[78] =
+	[79] =
 	{ // 09144
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1021,7 +1021,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[79] =
+	[80] =
 	{ // 09149
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -1034,7 +1034,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[80] =
+	[81] =
 	{ // 09190
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1047,7 +1047,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[81] =
+	[82] =
 	{ // 09194
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1060,7 +1060,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[82] =
+	[83] =
 	{ // 09400
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1073,7 +1073,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[83] =
+	[84] =
 	{ // 09401
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1086,7 +1086,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[84] =
+	[85] =
 	{ // 09404
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1099,7 +1099,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[85] =
+	[86] =
 	{ // 09409
 		.nature = NATURE_TIMID,
 		.ivs = 31,
@@ -1112,7 +1112,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[86] =
+	[87] =
 	{ // 09440
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1125,7 +1125,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[87] =
+	[88] =
 	{ // 09441
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1138,7 +1138,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[88] =
+	[89] =
 	{ // 09490
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1151,7 +1151,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[89] =
+	[90] =
 	{ // 09491
 		.nature = NATURE_BOLD,
 		.ivs = 31,
@@ -1164,7 +1164,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[90] =
+	[91] =
 	{ // 09901
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -1177,7 +1177,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[91] =
+	[92] =
 	{ // 09904
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -1190,7 +1190,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[92] =
+	[93] =
 	{ // 09940
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -1203,7 +1203,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[93] =
+	[94] =
 	{ // 09941
 		.nature = NATURE_MODEST,
 		.ivs = 31,
@@ -1216,7 +1216,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[94] =
+	[95] =
 	{ // 10009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1229,7 +1229,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[95] =
+	[96] =
 	{ // 10049
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1242,7 +1242,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[96] =
+	[97] =
 	{ // 10090
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1255,7 +1255,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[97] =
+	[98] =
 	{ // 10094
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1268,7 +1268,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[98] =
+	[99] =
 	{ // 10099
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1281,7 +1281,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[99] =
+	[100] =
 	{ // 10409
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1294,7 +1294,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[100] =
+	[101] =
 	{ // 10449
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1307,7 +1307,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[101] =
+	[102] =
 	{ // 10490
 		.nature = NATURE_SASSY,
 		.ivs = 31,
@@ -1320,7 +1320,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[102] =
+	[103] =
 	{ // 10494
 		.nature = NATURE_GENTLE,
 		.ivs = 31,
@@ -1333,7 +1333,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[103] =
+	[104] =
 	{ // 10499
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1346,7 +1346,20 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[104] =
+	[2] =
+	{ // 11111
+		.nature = NATURE_SERIOUS,
+		.ivs = 31,
+		.hpEv = 92,
+		.atkEv = 84,
+		.defEv = 84,
+		.spdEv = 84,
+		.spAtkEv = 84,
+		.spDefEv = 84,
+		.ball = TRAINER_EV_CLASS_BALL,
+		.ability = Ability_1,
+	},
+	[105] =
 	{ // 14009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1359,7 +1372,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[105] =
+	[106] =
 	{ // 14049
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1372,7 +1385,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[106] =
+	[107] =
 	{ // 14090
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1385,7 +1398,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[107] =
+	[108] =
 	{ // 14094
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1398,7 +1411,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[108] =
+	[109] =
 	{ // 14099
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1411,7 +1424,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[109] =
+	[110] =
 	{ // 14409
 		.nature = NATURE_NAIVE,
 		.ivs = 31,
@@ -1424,7 +1437,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[110] =
+	[111] =
 	{ // 14490
 		.nature = NATURE_SASSY,
 		.ivs = 31,
@@ -1437,7 +1450,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[111] =
+	[112] =
 	{ // 19000
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1450,7 +1463,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[112] =
+	[113] =
 	{ // 19004
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1463,7 +1476,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[113] =
+	[114] =
 	{ // 19009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1476,7 +1489,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[114] =
+	[115] =
 	{ // 19040
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1489,7 +1502,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[115] =
+	[116] =
 	{ // 19044
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1502,7 +1515,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[116] =
+	[117] =
 	{ // 19049
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1515,7 +1528,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[117] =
+	[118] =
 	{ // 19090
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1528,7 +1541,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[118] =
+	[119] =
 	{ // 19094
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -1541,7 +1554,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[119] =
+	[120] =
 	{ // 19400
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -1554,7 +1567,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[120] =
+	[121] =
 	{ // 19404
 		.nature = NATURE_LAX,
 		.ivs = 31,
@@ -1567,7 +1580,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[121] =
+	[122] =
 	{ // 19409
 		.nature = NATURE_NAIVE,
 		.ivs = 31,
@@ -1580,7 +1593,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[122] =
+	[123] =
 	{ // 19440
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -1593,7 +1606,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[123] =
+	[124] =
 	{ // 19490
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -1606,7 +1619,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[124] =
+	[125] =
 	{ // 40009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1619,7 +1632,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[125] =
+	[126] =
 	{ // 40019
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1632,7 +1645,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[126] =
+	[127] =
 	{ // 40049
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1645,7 +1658,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[127] =
+	[128] =
 	{ // 40090
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1658,7 +1671,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[128] =
+	[129] =
 	{ // 40091
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1671,7 +1684,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[129] =
+	[130] =
 	{ // 40094
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -1684,7 +1697,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[130] =
+	[131] =
 	{ // 40099
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1697,7 +1710,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[131] =
+	[132] =
 	{ // 40109
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1710,7 +1723,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[132] =
+	[133] =
 	{ // 40149
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1723,7 +1736,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[133] =
+	[134] =
 	{ // 40190
 		.nature = NATURE_SASSY,
 		.ivs = 31,
@@ -1736,7 +1749,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[134] =
+	[135] =
 	{ // 40194
 		.nature = NATURE_GENTLE,
 		.ivs = 31,
@@ -1749,7 +1762,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[135] =
+	[136] =
 	{ // 40199
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1762,7 +1775,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[136] =
+	[137] =
 	{ // 40409
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1775,7 +1788,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[137] =
+	[138] =
 	{ // 40419
 		.nature = NATURE_HASTY,
 		.ivs = 31,
@@ -1788,7 +1801,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[138] =
+	[139] =
 	{ // 40490
 		.nature = NATURE_SASSY,
 		.ivs = 31,
@@ -1801,7 +1814,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[139] =
+	[140] =
 	{ // 40491
 		.nature = NATURE_GENTLE,
 		.ivs = 31,
@@ -1814,7 +1827,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[140] =
+	[141] =
 	{ // 40900
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -1827,7 +1840,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[141] =
+	[142] =
 	{ // 40901
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1840,7 +1853,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[142] =
+	[143] =
 	{ // 40904
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1853,7 +1866,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[143] =
+	[144] =
 	{ // 40909
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1866,7 +1879,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[144] =
+	[145] =
 	{ // 40910
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -1879,7 +1892,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[145] =
+	[146] =
 	{ // 40914
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1892,7 +1905,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[146] =
+	[147] =
 	{ // 40919
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1905,7 +1918,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[147] =
+	[148] =
 	{ // 40940
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -1918,7 +1931,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[148] =
+	[149] =
 	{ // 40941
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1931,7 +1944,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[149] =
+	[150] =
 	{ // 40990
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -1944,7 +1957,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[150] =
+	[151] =
 	{ // 40991
 		.nature = NATURE_MILD,
 		.ivs = 31,
@@ -1957,7 +1970,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[151] =
+	[152] =
 	{ // 41009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1970,7 +1983,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[152] =
+	[153] =
 	{ // 41049
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -1983,7 +1996,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[153] =
+	[154] =
 	{ // 41409
 		.nature = NATURE_NAIVE,
 		.ivs = 31,
@@ -1996,7 +2009,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[154] =
+	[155] =
 	{ // 41900
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -2009,7 +2022,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[155] =
+	[156] =
 	{ // 41904
 		.nature = NATURE_RASH,
 		.ivs = 31,
@@ -2022,7 +2035,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[156] =
+	[157] =
 	{ // 41909
 		.nature = NATURE_RASH,
 		.ivs = 31,
@@ -2035,7 +2048,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[157] =
+	[158] =
 	{ // 41940
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -2048,7 +2061,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[158] =
+	[159] =
 	{ // 44009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -2061,7 +2074,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[159] =
+	[160] =
 	{ // 44019
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -2074,7 +2087,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[160] =
+	[161] =
 	{ // 44090
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -2087,7 +2100,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[161] =
+	[162] =
 	{ // 44091
 		.nature = NATURE_CAREFUL,
 		.ivs = 31,
@@ -2100,7 +2113,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[162] =
+	[163] =
 	{ // 44109
 		.nature = NATURE_NAIVE,
 		.ivs = 31,
@@ -2113,7 +2126,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[163] =
+	[164] =
 	{ // 44190
 		.nature = NATURE_SASSY,
 		.ivs = 31,
@@ -2126,7 +2139,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[164] =
+	[165] =
 	{ // 44900
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -2139,7 +2152,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[165] =
+	[166] =
 	{ // 44901
 		.nature = NATURE_RASH,
 		.ivs = 31,
@@ -2152,7 +2165,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[166] =
+	[167] =
 	{ // 44910
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -2165,7 +2178,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[167] =
+	[168] =
 	{ // 49000
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2178,7 +2191,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[168] =
+	[169] =
 	{ // 49001
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2191,7 +2204,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[169] =
+	[170] =
 	{ // 49004
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2204,7 +2217,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[170] =
+	[171] =
 	{ // 49009
 		.nature = NATURE_JOLLY,
 		.ivs = 31,
@@ -2217,7 +2230,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[171] =
+	[172] =
 	{ // 49040
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2230,7 +2243,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[172] =
+	[173] =
 	{ // 49041
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2243,7 +2256,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[173] =
+	[174] =
 	{ // 49090
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2256,7 +2269,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[174] =
+	[175] =
 	{ // 49091
 		.nature = NATURE_IMPISH,
 		.ivs = 31,
@@ -2269,7 +2282,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[175] =
+	[176] =
 	{ // 49100
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -2282,7 +2295,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[176] =
+	[177] =
 	{ // 49104
 		.nature = NATURE_LAX,
 		.ivs = 31,
@@ -2295,7 +2308,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[177] =
+	[178] =
 	{ // 49109
 		.nature = NATURE_NAIVE,
 		.ivs = 31,
@@ -2308,7 +2321,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[178] =
+	[179] =
 	{ // 49140
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -2321,7 +2334,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[179] =
+	[180] =
 	{ // 49190
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -2334,7 +2347,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[180] =
+	[181] =
 	{ // 49400
 		.nature = NATURE_RELAXED,
 		.ivs = 31,
@@ -2347,7 +2360,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[181] =
+	[182] =
 	{ // 49401
 		.nature = NATURE_LAX,
 		.ivs = 31,
@@ -2360,7 +2373,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[182] =
+	[183] =
 	{ // 49900
 		.nature = NATURE_QUIET,
 		.ivs = 31,
@@ -2373,7 +2386,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[183] =
+	[184] =
 	{ // 49901
 		.nature = NATURE_RASH,
 		.ivs = 31,
@@ -2386,7 +2399,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[184] =
+	[185] =
 	{ // 90001
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2399,7 +2412,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[185] =
+	[186] =
 	{ // 90004
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2412,7 +2425,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[186] =
+	[187] =
 	{ // 90010
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2425,7 +2438,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[187] =
+	[188] =
 	{ // 90014
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2438,7 +2451,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[188] =
+	[189] =
 	{ // 90019
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2451,7 +2464,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[189] =
+	[190] =
 	{ // 90040
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2464,7 +2477,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[190] =
+	[191] =
 	{ // 90041
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2477,7 +2490,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[191] =
+	[192] =
 	{ // 90044
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2490,7 +2503,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[192] =
+	[193] =
 	{ // 90049
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2503,7 +2516,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[193] =
+	[194] =
 	{ // 90091
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2516,7 +2529,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[194] =
+	[195] =
 	{ // 90094
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2529,7 +2542,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[195] =
+	[196] =
 	{ // 90400
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2542,7 +2555,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[196] =
+	[197] =
 	{ // 90401
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2555,7 +2568,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[197] =
+	[198] =
 	{ // 90404
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2568,7 +2581,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[198] =
+	[199] =
 	{ // 90409
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2581,7 +2594,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[199] =
+	[200] =
 	{ // 90410
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2594,7 +2607,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[200] =
+	[201] =
 	{ // 90414
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2607,7 +2620,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[201] =
+	[202] =
 	{ // 90419
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2620,7 +2633,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[202] =
+	[203] =
 	{ // 90440
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2633,7 +2646,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[203] =
+	[204] =
 	{ // 90441
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2646,7 +2659,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[204] =
+	[205] =
 	{ // 90490
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2659,7 +2672,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[205] =
+	[206] =
 	{ // 90491
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2672,7 +2685,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[206] =
+	[207] =
 	{ // 90901
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2685,7 +2698,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[207] =
+	[208] =
 	{ // 90904
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2698,7 +2711,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[208] =
+	[209] =
 	{ // 90910
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2711,7 +2724,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[209] =
+	[210] =
 	{ // 90914
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2724,7 +2737,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[210] =
+	[211] =
 	{ // 90940
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2737,7 +2750,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[211] =
+	[212] =
 	{ // 90941
 		.nature = NATURE_LONELY,
 		.ivs = 31,
@@ -2750,7 +2763,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[212] =
+	[213] =
 	{ // 91000
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2763,7 +2776,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[213] =
+	[214] =
 	{ // 91004
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2776,7 +2789,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[214] =
+	[215] =
 	{ // 91009
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2789,7 +2802,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[215] =
+	[216] =
 	{ // 91040
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2802,7 +2815,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[216] =
+	[217] =
 	{ // 91044
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2815,7 +2828,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[217] =
+	[218] =
 	{ // 91049
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2828,7 +2841,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[218] =
+	[219] =
 	{ // 91400
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2841,7 +2854,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[219] =
+	[220] =
 	{ // 91404
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,
@@ -2854,7 +2867,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[220] =
+	[221] =
 	{ // 91409
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,
@@ -2867,7 +2880,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[221] =
+	[222] =
 	{ // 91440
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2880,7 +2893,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[222] =
+	[223] =
 	{ // 91900
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2893,7 +2906,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[223] =
+	[224] =
 	{ // 91904
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,
@@ -2906,7 +2919,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[224] =
+	[225] =
 	{ // 91940
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -2919,7 +2932,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[225] =
+	[226] =
 	{ // 94000
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2932,7 +2945,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[226] =
+	[227] =
 	{ // 94001
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2945,7 +2958,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[227] =
+	[228] =
 	{ // 94004
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2958,7 +2971,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[228] =
+	[229] =
 	{ // 94009
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2971,7 +2984,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[229] =
+	[230] =
 	{ // 94010
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2984,7 +2997,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[230] =
+	[231] =
 	{ // 94014
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -2997,7 +3010,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[231] =
+	[232] =
 	{ // 94019
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3010,7 +3023,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[232] =
+	[233] =
 	{ // 94040
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3023,7 +3036,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[233] =
+	[234] =
 	{ // 94041
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3036,7 +3049,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[234] =
+	[235] =
 	{ // 94090
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3049,7 +3062,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[235] =
+	[236] =
 	{ // 94091
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3062,7 +3075,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[236] =
+	[237] =
 	{ // 94400
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -3075,7 +3088,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[237] =
+	[238] =
 	{ // 94401
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,
@@ -3088,7 +3101,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[238] =
+	[239] =
 	{ // 94410
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -3101,7 +3114,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[239] =
+	[240] =
 	{ // 94900
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -3114,7 +3127,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[240] =
+	[241] =
 	{ // 94901
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,
@@ -3127,7 +3140,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[241] =
+	[242] =
 	{ // 94910
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -3140,7 +3153,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[242] =
+	[243] =
 	{ // 99001
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3153,7 +3166,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[243] =
+	[244] =
 	{ // 99004
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3166,7 +3179,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[244] =
+	[245] =
 	{ // 99040
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3179,7 +3192,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[245] =
+	[246] =
 	{ // 99041
 		.nature = NATURE_ADAMANT,
 		.ivs = 31,
@@ -3192,7 +3205,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[246] =
+	[247] =
 	{ // 99400
 		.nature = NATURE_BRAVE,
 		.ivs = 31,
@@ -3205,7 +3218,7 @@ const struct TrainersWithEvs gTrainersWithEvsSpreads[] =
 		.ball = TRAINER_EV_CLASS_BALL,
 		.ability = Ability_1,
 	},
-	[247] =
+	[248] =
 	{ // 99401
 		.nature = NATURE_NAUGHTY,
 		.ivs = 31,

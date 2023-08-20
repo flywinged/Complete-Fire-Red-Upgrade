@@ -624,6 +624,7 @@ FixSafariZoneWindow 0806EE98 0
 FixSafariZoneBattleWindow 08049D1A 1
 
 ##Hacks
+InUnionRoom 0811B0D0 0
 
 #ifdef SCROLLING_MULTICHOICE
 

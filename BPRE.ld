@@ -1484,7 +1484,7 @@ CreateStartMenuWindow = 0x80F78E0 | 1;
 DestroyHelpMessageWindow_ = 0x80F7998 | 1;
 GetStartMenuWindowId = 0x80F793C | 1;
 RemoveStartMenuWindow = 0x80F7948 | 1;
-InUnionRoom = 0x811B0D0 | 1;
+//InUnionRoom = 0x811B0D0 | 1;
 PrintTextOnHelpMessageWindow = 0x8113018 | 1;
 
 /* Save State Functions */

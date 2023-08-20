@@ -80,6 +80,11 @@ u16 SanitizeItemId(u16 itemId)
 	return itemId;
 }
 
+bool32 InUnionRoom(void)
+{
+    return FALSE;
+}
+
 const u8* ItemId_GetName(u16 itemId)
 {
 	u8* name = gItems[SanitizeItemId(itemId)].name;
