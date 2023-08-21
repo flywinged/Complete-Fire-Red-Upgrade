@@ -36,7 +36,7 @@ static const u16 sCriticalHitChances[] =
 #elif (defined CRIT_CHANCE_GEN_2_TO_5)
 	{16, 8, 4, 3, 2};
 #else
-	{24, 8, 2, 1, 1};
+	{24, 6, 2, 1, 1};
 #endif
 
 #define BASE_CRIT_MULTIPLIER 10 //1x
