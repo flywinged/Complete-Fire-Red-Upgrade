@@ -93,7 +93,7 @@
 #define VAR_0x4032                         0x4032 // Used to track the progress on the Mysterious Wood Storyline
 #define VAR_ENIGMA_BERRY_AVAILABLE         0x4033
 
-#define VAR_0x4034                         0x4034
+#define VAR_0x4034                         0x4034 // Used to track whether or not the player can access the key items for healing and pc
 #define VAR_RESORT_GOREGEOUS_STEP_COUNTER  0x4035
 #define VAR_RESORT_GORGEOUS_REQUESTED_MON  0x4036
 #define VAR_PC_BOX_TO_SEND_MON             0x4037
