@@ -1091,7 +1091,7 @@ void TryExecuteInstruct(void)
 	u16 move = gLastPrintedMoves[gBankTarget];
 
 	if (CheckTableForMove(move, gInstructBannedMoves)
-	||  CheckTableForMove(move, gMovesThatRequireRecharging)
+	// ||  CheckTableForMove(move, gMovesThatRequireRecharging)
 	||  CheckTableForMove(move, gMovesThatCallOtherMoves)
 	|| IsZMove(move)
 	|| IsAnyMaxMove(move)
