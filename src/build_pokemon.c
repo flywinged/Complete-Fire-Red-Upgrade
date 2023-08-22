@@ -3628,6 +3628,24 @@ void CreateBoxMon(struct BoxPokemon* boxMon, u16 species, u8 level, u8 fixedIV, 
 			}
 		}
 		#endif
+
+		// Custom code to create more beneficial ivs each time
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_HP_IV, &iv);
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_ATK_IV, &iv);
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_DEF_IV, &iv);
+
+		value = Random();
+
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_SPEED_IV, &iv);
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_SPATK_IV, &iv);
+		iv = MathMax(MathMax(RandRange(0, 32), RandRange(0, 32)), RandRange(0, 32));
+		SetBoxMonData(boxMon, MON_DATA_SPDEF_IV, &iv);
+
 	}
 
 	((struct Pokemon*) boxMon)->hiddenAbility = FALSE; //Set base hidden ability to 0

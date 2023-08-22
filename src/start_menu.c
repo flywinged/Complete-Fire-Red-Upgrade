@@ -52,6 +52,7 @@ extern const u8 gText_MenuExitRight[];
 extern const u8 gText_MenuExitLeft[];
 extern const u8 gText_MenuRetire[];
 extern const u8 gText_DexNav[];
+extern const u8 gText_EVsIVs[];
 extern const u8 gText_MissionLog[];
 extern const u8 gText_MenuBag[];
 extern const u8 gText_MenuCube[];
@@ -116,7 +117,7 @@ const struct MenuAction sStartMenuActionTable[] =
 	[STARTMENU_POKEDEX] = {gText_MenuPokedex, {.u8_void = StartMenuPokedexCallback}},
 	[STARTMENU_POKEMON] = {gText_MenuPokemon, {.u8_void = StartMenuPokemonCallback}},
 	[STARTMENU_BAG] = {gText_MenuBag, {.u8_void = StartMenuBagCallback}},
-	[STARTMENU_PLAYER] = {gText_MenuPlayer, {.u8_void = StartMenuPlayerCallback}},
+	[STARTMENU_PLAYER] = {gText_EVsIVs, 0x08720001},
 	[STARTMENU_SAVE] = {gText_MenuSave, {.u8_void = StartMenuSaveCallback}},
 	[STARTMENU_OPTION] = {gText_MenuOption, {.u8_void = StartMenuOptionCallback}},
 	[STARTMENU_EXIT] = {gText_MenuExit, {.u8_void = StartMenuExitCallback}},
