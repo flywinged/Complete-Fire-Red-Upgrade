@@ -35,8 +35,8 @@ ThunderPunch
 #org @NAME_SCRATCH
 Scratch
 
-#org @NAME_VISE_GRIP
-Vise Grip
+#org @NAME_VICE_GRIP
+Vice Grip
 
 #org @NAME_GUILLOTINE
 Guillotine
@@ -1388,7 +1388,7 @@ Brine
 #org @NAME_FAIRY_WIND
 Fairy Wind
 
-#org @NAME_DOLL_EYES
+#org @NAME_BABY_DOLL_EYES
 Doll Eyes
 
 #org @NAME_PLAY_ROUGH
@@ -1397,13 +1397,13 @@ Play Rough
 #org @NAME_MOONBLAST
 Moonblast
 
-#org @NAME_DRAIN_KISS
+#org @NAME_DRAINING_KISS
 Drain Kiss
 
-#org @NAME_DAZZLE_GLEAM
+#org @NAME_DAZZLING_GLEAM
 Dazzle Gleam
 
-#org @NAME_DISARM_CRY
+#org @NAME_DISARMING_VOICE
 Disarm Cry
 
 #org @NAME_STEALTH_ROCK
@@ -1436,7 +1436,7 @@ Gastro Acid
 #org @NAME_GEOMANCY
 Geomancy
 
-#org @NAME_FLOWER_GUARD
+#org @NAME_FLOWER_SHIELD
 Flower Guard
 
 #org @NAME_ROTOTILLER
@@ -1472,7 +1472,7 @@ Feint
 #org @NAME_PHANTOM_FORCE
 PhantomForce
 
-#org @NAME_PETAL_STORM
+#org @NAME_PETAL_BLIZZARD
 Petal Storm
 
 #org @NAME_PLAY_NICE
@@ -1499,7 +1499,7 @@ Nuzzle
 #org @NAME_RETALIATE
 Retaliate
 
-#org @NAME_METAL_BASH
+#org @NAME_STEELY_HIT
 Metal Bash
 
 #org @NAME_JUDGMENT
@@ -1529,13 +1529,13 @@ Chip Away
 #org @NAME_SMACK_DOWN
 Smack Down
 
-#org @NAME_SPACE_HOLE
+#org @NAME_HYPERSPACE_HOLE
 Space Hole
 
 #org @NAME_GYRO_BALL
 Gyro Ball
 
-#org @NAME_SPACE_FURY
+#org @NAME_HYPERSPACE_FURY
 Space Fury
 
 #org @NAME_ATTACK_ORDER
@@ -1556,13 +1556,13 @@ Defog
 #org @NAME_ORIGIN_PULSE
 Origin Pulse
 
-#org @NAME_CLIFF_BLADES
+#org @NAME_PRECIPICE_BLADES
 Cliff Blades
 
 #org @NAME_GUARD_SWAP
 Guard Swap
 
-#org @NAME_STEAM_PUMP
+#org @NAME_STEAM_ERUPTION
 Steam Pump
 
 #org @NAME_METAL_BURST
@@ -1619,7 +1619,7 @@ Night Daze
 #org @NAME_ECHOED_VOICE
 Echoed Voice
 
-#org @NAME_LAND'S_WRATH
+#org @NAME_LANDS_WRATH
 Land's Wrath
 
 #org @NAME_OBLIVIONWING
@@ -1679,7 +1679,7 @@ Fell Stinger
 #org @NAME_NOBLE_ROAR
 Noble Roar
 
-#org @NAME_DRAGON_RISE
+#org @NAME_DRAGON_ASCENT
 Dragon Rise
 
 #org @NAME_PARTING_SHOT
@@ -1688,7 +1688,7 @@ Parting Shot
 #org @NAME_TOPSY_TURVY
 Topsy-Turvy
 
-#org @NAME_CORE_ENFORCE
+#org @NAME_CORE_ENFORCER
 Core Enforce
 
 #org @NAME_CHATTER
@@ -1697,10 +1697,10 @@ Chatter
 #org @NAME_CONFIDE
 Confide
 
-#org @NAME_WATER_STAR
+#org @NAME_WATER_SHURIKEN
 Water Star
 
-#org @NAME_MYSTIC_FIRE
+#org @NAME_MYSTICAL_FIRE
 Mystic Fire
 
 #org @NAME_SPIKY_SHIELD
@@ -1715,16 +1715,16 @@ Hold Back
 #org @NAME_INFESTATION
 Infestation
 
-#org @NAME_POWER_UP_HIT
+#org @NAME_POWER_UP_PUNCH
 Power-Up Hit
 
-#org @NAME_1000_ARROWS
+#org @NAME_THOUSAND_ARROWS
 1000 Arrows
 
-#org @NAME_1000_WAVES
+#org @NAME_THOUSAND_WAVES
 1000 Waves
 
-#org @NAME_PARA_CHARGE
+#org @NAME_PARABOLIC_CHARGE
 Para Charge
 
 #org @NAME_SEARING_SHOT
@@ -1742,7 +1742,7 @@ Anchor Shot
 #org @NAME_AURORA_VEIL
 Aurora Veil
 
-#org @NAME_BANEFUL_BUNK
+#org @NAME_BANEFUL_BUNKER
 Baneful Bunk
 
 #org @NAME_BEAK_BLAST
@@ -1754,31 +1754,31 @@ Brutal Swing
 #org @NAME_BURN_UP
 Burn Up
 
-#org @NAME_CLANG_SCALES
+#org @NAME_CLANGING_SCALES
 Clang Scales
 
-#org @NAME_DARK_LARIAT
+#org @NAME_DARKEST_LARIAT
 Dark Lariat
 
-#org @NAME_DRACO_HAMMER
+#org @NAME_DRAGON_HAMMER
 Draco Hammer
 
 #org @NAME_FIRE_LASH
 Fire Lash
 
-#org @NAME_FIRST_PRESS
+#org @NAME_FIRST_IMPRESSION
 First Press
 
 #org @NAME_FLEUR_CANNON
 Fleur Cannon
 
-#org @NAME_FLORAL_HEAL
+#org @NAME_FLORAL_HEALING
 Floral Heal
 
 #org @NAME_GEAR_UP
 Gear Up
 
-#org @NAME_HORSEPOWER
+#org @NAME_HIGH_HORSEPOWER
 Horsepower
 
 #org @NAME_ICE_HAMMER
@@ -1796,13 +1796,13 @@ Liquidation
 #org @NAME_LUNGE
 Lunge
 
-#org @NAME_GEIST_BEAM
+#org @NAME_MOON_GEIST_BEAM
 Geist Beam
 
 #org @NAME_MULTI_ATTACK
 Multi-Attack
 
-#org @NAME_NATURE'S_MAD
+#org @NAME_NATURES_MADNESS
 Nature's Mad
 
 #org @NAME_POLLEN_PUFF
@@ -1811,16 +1811,16 @@ Pollen Puff
 #org @NAME_POWER_TRIP
 Power Trip
 
-#org @NAME_PRISM_LASER
+#org @NAME_PRISMATIC_LASER
 Prism Laser
 
-#org @NAME_PSYCHIC_FANG
+#org @NAME_PSYCHIC_FANGS
 Psychic Fang
 
 #org @NAME_PURIFY
 Purify
 
-#org @NAME_REVEL_DANCE
+#org @NAME_REVELATION_DANCE
 Revel Dance
 
 #org @NAME_SHADOW_BONE
@@ -1838,31 +1838,31 @@ Smart Strike
 #org @NAME_SOLAR_BLADE
 Solar Blade
 
-#org @NAME_SPARKLE_ARIA
+#org @NAME_SPARKLING_ARIA
 Sparkle Aria
 
-#org @NAME_SPECT_THIEF
+#org @NAME_SPECTRAL_THIEF
 Spect Thief
 
 #org @NAME_SPEED_SWAP
 Speed Swap
 
-#org @NAME_SPIRIT_LOCK
+#org @NAME_SPIRIT_SHACKLE
 Spirit Lock
 
 #org @NAME_SPOTLIGHT
 Spotlight
 
-#org @NAME_BAD_TANTRUM
+#org @NAME_STOMPING_TANTRUM
 Bad Tantrum
 
 #org @NAME_STRENGTH_SAP
 Strength Sap
 
-#org @NAME_SUNSTEEL_RAM
+#org @NAME_SUNSTEEL_STRIKE
 Sunsteel Ram
 
-#org @NAME_TEARY_LOOK
+#org @NAME_TEARFUL_LOOK
 Teary Look
 
 #org @NAME_THROAT_CHOP
@@ -1877,16 +1877,16 @@ Trop Kick
 #org @NAME_ZING_ZAP
 Zing Zap
 
-#org @NAME_ELEC_TERRAIN
+#org @NAME_ELECTRIC_TERRAIN
 Elec Terrain
 
-#org @NAME_GRAS_TERRAIN
+#org @NAME_GRASSY_TERRAIN
 Gras Terrain
 
-#org @NAME_MIST_TERRAIN
+#org @NAME_MISTY_TERRAIN
 Mist Terrain
 
-#org @NAME_PSYC_TERRAIN
+#org @NAME_PSYCHIC_TERRAIN
 Psyc Terrain
 
 #org @NAME_GRASS_PLEDGE
@@ -1907,7 +1907,7 @@ Magic Room
 #org @NAME_WONDER_ROOM
 Wonder Room
 
-#org @NAME_CRAFTY_GUARD
+#org @NAME_CRAFTY_SHIELD
 Crafty Guard
 
 #org @NAME_MAT_BLOCK
@@ -1922,7 +1922,7 @@ Wide Guard
 #org @NAME_AQUA_RING
 Aqua Ring
 
-#org @NAME_AROMA_MIST
+#org @NAME_AROMATIC_MIST
 Aroma Mist
 
 #org @NAME_BELCH
@@ -1955,7 +1955,7 @@ Lucky Chant
 #org @NAME_MAGNET_RISE
 Magnet Rise
 
-#org @NAME_MAGNET_FLUX
+#org @NAME_MAGNETIC_FLUX
 Magnet Flux
 
 #org @NAME_POWDER
@@ -1976,13 +1976,13 @@ Soak
 #org @NAME_TELEKINESIS
 Telekinesis
 
-#org @NAME_TRICKOTREAT
+#org @NAME_TRICKORTREAT
 TrickoTreat
 
 #org @NAME_VENOM_DRENCH
 Venom Drench
 
-#org @NAME_WOODS_CURSE
+#org @NAME_FORESTS_CURSE
 Woods Curse
 
 #org @NAME_MIND_BLOWN
@@ -2003,7 +2003,7 @@ Embargo
 #org @NAME_FAIRY_LOCK
 Fairy Lock
 
-#org @NAME_LIGHT_O_RUIN
+#org @NAME_LIGHT_OF_RUIN
 Light o Ruin
 
 #org @NAME_TRUMP_CARD
@@ -2021,7 +2021,7 @@ Quash
 #org @NAME_HAPPY_HOUR
 Happy Hour
 
-#org @NAME_DOUBLE_IRON
+#org @NAME_DOUBLE_IRON_BASH
 Double Iron
 
 #org @NAME_LAST_RESORT
