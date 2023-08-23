@@ -56,7 +56,7 @@ Obtained a [BUFFER][03]!\nIt contains [BUFFER][02].
 Use which item?
 
 #org @gText_ScurriedToNearestHealer
-[PLAYER] scurried to the nearest healer,\nprotecting the exhausted and fainted\nPok\emon from further harm[.]\p
+[PLAYER] scurried to the nearest safe place,\nprotecting the exhausted and fainted\nPok\emon from further harm[.]\p
 
 #org @gText_WantToScaleCliff
 The wall is very rocky[.]\nWould you like to use [BUFFER2]?
