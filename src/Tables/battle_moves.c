@@ -8087,7 +8087,7 @@ const struct BattleMove gBattleMoves[] =
 	},
 
 	[MOVE_STEELYHIT] =
-	{
+	{   //TODO: Figure out how to include this
 		.effect = EFFECT_HIT,
 		.power = 40,
 		.type = TYPE_STEEL,
