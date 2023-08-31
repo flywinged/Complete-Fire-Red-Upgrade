@@ -1706,8 +1706,9 @@ void AdjustDamage(bool8 checkFalseSwipe)
 			gSpecialStatuses[bankDef].focusBanded = 1;
 			gNewBS->EnduranceHelper[bankDef] = ENDURE_FOCUS_SASH;
 		}
-		else if (itemEffect == ITEM_EFFECT_FOCUS_BAND && Random() % 100 < itemQuality && !IsBankHoldingFocusSash(bankDef))
-		{
+		else if ((itemEffect == ITEM_EFFECT_FOCUS_BAND && Random() % 100 < itemQuality && !IsBankHoldingFocusSash(bankDef)) ||
+		 	(item == ITEM_FOCUS_SASH && gBattleMons[bankDef].hp == gBattleMons[bankDef].maxHP)
+		){
 			RecordItemEffectBattle(bankDef, itemEffect);
 			gSpecialStatuses[bankDef].focusBanded = TRUE;
 		}
